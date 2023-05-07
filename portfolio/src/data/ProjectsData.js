@@ -10,8 +10,8 @@ const ProjectsPreviewData = [
     img: RestCountries,
     name: "Rest Countires",
     stack: ["< RESTful API />", "< CSS3 />", "< React.js />"],
-    src: "https://catherineisonline.github.io/rest-countries/",
-    source: "https://github.com/catherineisonline/rest-countries",
+    src: "https://weather-now-api.vercel.app/",
+    source: "",
     description:
       "REST Countries is a project made with API which also has a color theme switcher feature. You can view the list of all countries and find a specific one via search or by filtering regions. By navigating to the individual country page, you are able to see more details about the country like native name and even border countries.",
   },
@@ -25,7 +25,7 @@ const ProjectsData = [
     img: RestCountries,
     name: "Rest Countires",
     stack: ["< RESTful API />", "< CSS3 />", "< React.js />"],
-    src: "https://catherineisonline.github.io/rest-countries/",
+    src: "",
   
     description:
       "REST Countries is a project made with API which also has a color theme switcher feature. You can view the list of all countries and find a specific one via search or by filtering regions. By navigating to the individual country page, you are able to see more details about the country like native name and even border countries.",
